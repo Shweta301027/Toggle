@@ -1,0 +1,10 @@
+.btn{
+    background-color: bisque;
+ font-size: 1.2rem;
+ width: 10%;
+ height: 20%;
+ text-align: center;
+}
+.display-block{
+    display: none;
+}
